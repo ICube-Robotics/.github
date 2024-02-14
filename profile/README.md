@@ -14,7 +14,7 @@
 
 | **Projects**                                                                      | **Description**                                                                |
 | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| [ ethercat_driver_ros2  ](ethercat_driver_ros2.md  )                              | Hardware Interfaces for integrating EtherCAT modules within the ros2_control.  |
+| [ ethercat_driver_ros2  ](ethercat_driver_ros2.md  )                              | Hardware Interfaces for integrating EtherCAT modules within ros2_control.      |
 | [ forcedimension_ros2  ](https://github.com/ICube-Robotics/forcedimension_ros2  ) | Drivers for Force Dimension sdk compatible haptic interfaces for ros2_control. |
 | [ hk1d_ros2 ](https://github.com/ICube-Robotics/hk1d_ros2 )                       | ROS2 stack to use a 1-Dof haptic kit used at the ICube laboratory.             |
 | [ iiwa_ros2 ](https://github.com/ICube-Robotics/iiwa_ros2 )                       | ROS2 stack for KUKA iiwa collaborative robots.                                 |
