@@ -3,12 +3,12 @@
 
 The main publicly available projects are:
 
-| **Projects**                                                                      | **Description**                                                                |
-| --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| [ ethercat_driver_ros2  ](ethercat_driver_ros2.md  )                              | Hardware Interfaces for integrating EtherCAT modules within ros2_control.      |
-| [ forcedimension_ros2  ](https://github.com/ICube-Robotics/forcedimension_ros2  ) | Drivers for Force Dimension sdk compatible haptic interfaces for ros2_control. |
-| [ iiwa_ros2 ](https://github.com/ICube-Robotics/iiwa_ros2 )                       | ROS2 stack for KUKA iiwa collaborative robots.                                 |
-| [ acados_driver_ros2 ](acados_driver_ros2.md)                      | Helper packages to use the Acados solver for non-linear optimization in ROS2 applications.|
+| **Projects**                                                                      | **Description**                                                                            |
+| --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| [ EtherCAT tools for ROS2  ](ethercat_driver_ros2.md  )                           | Hardware Interfaces for integrating EtherCAT modules within ros2_control.                  |
+| [ forcedimension_ros2  ](https://github.com/ICube-Robotics/forcedimension_ros2  ) | Drivers for Force Dimension sdk compatible haptic interfaces for ros2_control.             |
+| [ iiwa_ros2 ](https://github.com/ICube-Robotics/iiwa_ros2 )                       | ROS2 stack for KUKA iiwa collaborative robots.                                             |
+| [ acados_driver_ros2 ](acados_driver_ros2.md)                                     | Helper packages to use the Acados solver for non-linear optimization in ROS2 applications. |
 
 
 <details>
@@ -17,7 +17,7 @@ The main publicly available projects are:
 
 - Vendor packages:
 
-| **Repos**                                                                | **Description**                                                                                                                   |
+| **Repos**                                                                   | **Description**                                                                                                                   |
 | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | [ acados_vendor_ros2](https://github.com/ICube-Robotics/acados_vendor_ros2) | Vendored package for the [Acados](https://github.com/acados/acados) non-linear  optimization framework.                           |
 | [ mosek_vendor_ros2 ](https://github.com/ICube-Robotics/mosek_vendor_ros2 ) | Vendored package for the [MOSEK](https://www.mosek.com/) optimization framework.                                                  | ) |
@@ -38,17 +38,17 @@ The main publicly available projects are:
 
 - Educational packages:
 
-| **Projects** | **Description** |
-| ------------ | --------------- |
-| [ scara_tutorial_ros2](https://github.com/ICube-Robotics/scara_tutorial_ros2) | Tutorial for building and controlling a scara type robot using ros2_control.|
+| **Projects**                                                                  | **Description**                                                              |
+| ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| [ scara_tutorial_ros2](https://github.com/ICube-Robotics/scara_tutorial_ros2) | Tutorial for building and controlling a scara type robot using ros2_control. |
 
 
 - Misc. projects:
 
-| **Projects** | **Description** |
-| ------------ | --------------- |
-| [ acados_solver_ros2](https://github.com/ICube-Robotics/acados_vendor_ros2) | Helper packages to use the Acados solver for non-linear optimization in ROS2 applications.|
-| [ pytroller](https://github.com/ICube-Robotics/pytroller) | Python controller for ros2_control .|
+| **Projects**                                                                | **Description**                                                                            |
+| --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| [ acados_solver_ros2](https://github.com/ICube-Robotics/acados_vendor_ros2) | Helper packages to use the Acados solver for non-linear optimization in ROS2 applications. |
+| [ pytroller](https://github.com/ICube-Robotics/pytroller)                   | Python controller for ros2_control .                                                       |
 
 
 </details>
