@@ -1,6 +1,3 @@
-blob main profile does not work# ICube-Robotics
-
-
 The main publicly available projects are:
 
 | **Projects**                                                                      | **Description**                                                                            |
