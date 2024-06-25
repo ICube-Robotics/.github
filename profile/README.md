@@ -1,14 +1,14 @@
-# ICube-Robotics
+blob main profile does not work# ICube-Robotics
 
 
 The main publicly available projects are:
 
 | **Projects**                                                                      | **Description**                                                                            |
 | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| [ EtherCAT tools for ROS2  ](ethercat_driver_ros2.md  )                           | Hardware Interfaces for integrating EtherCAT modules within ros2_control.                  |
+| [ EtherCAT tools for ROS2  ](/ethercat_driver_ros2.md)                           | Hardware Interfaces for integrating EtherCAT modules within ros2_control.                  |
 | [ forcedimension_ros2  ](https://github.com/ICube-Robotics/forcedimension_ros2  ) | Drivers for Force Dimension sdk compatible haptic interfaces for ros2_control.             |
 | [ iiwa_ros2 ](https://github.com/ICube-Robotics/iiwa_ros2 )                       | ROS2 stack for KUKA iiwa collaborative robots.                                             |
-| [ acados_solver_ros2 ](acados_solver_ros2.md)                                     | Helper packages to use the Acados solver for non-linear optimization in ROS2 applications. |
+| [ acados_solver_ros2 ](/acados_solver_ros2.md)                                     | Helper packages to use the Acados solver for non-linear optimization in ROS2 applications. |
 
 
 <details>
