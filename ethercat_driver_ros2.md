@@ -11,8 +11,8 @@ This project proposes:
 ## Installation of igh with the debian packages
 
 We offer 2 debian packages to help install the igh master:
-1. [for x86-amd64 architectures](https://seafile.unistra.fr/f/7b38a17736d14a08a8ee/?dl=1)
-2. [for arm64 architectures](https://seafile.unistra.fr/f/51bb8a3a2c9242f18f1a/?dl=1) , for a Raspeberry Pi for instance
+1. [for x86-amd64 architectures](https://drive.google.com/file/d/1MACuiqoCm8vuusmTZDqJKkq13NmAN2py/view?usp=sharing)
+2. [for arm64 architectures](https://drive.google.com/file/d/1m4c5gWcIsSUSVsS8j_r0BBv6RpNQ6Z0j/view?usp=sharing) , for a Raspeberry Pi for instance
 
 Download the file ethercat-igh-install_1.0_amd64.deb or (ethercat-igh-install_1.0_arm64.deb) in the `/tmp` folder and install it with the following command:
 
